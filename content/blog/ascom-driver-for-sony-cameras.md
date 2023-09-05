@@ -1,7 +1,7 @@
 +++
 title = 'ASCOM Driver for Sony Cameras'
-date = 2020-01-18T15:20:17-06:00
-draft = true
+date = 2019-12-27T18:09:17-06:00
+draft = false
 +++
 Recently I moved to an area of the country where the night skies are much clearer. I can now actually see celestial objects bigger than the Sun and the Moon!
 

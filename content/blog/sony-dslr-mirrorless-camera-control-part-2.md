@@ -1,7 +1,7 @@
 +++
 title = 'Sony Dslr Mirrorless Camera Control [Part 2]'
 date = 2020-01-26T16:50:25-06:00
-draft = true
+draft = false
 +++
 At this time, I've been able to map around half of the reported properties to their actual camera setting. I've deciphered the meaning of the different values for most of these. However, some values will be missing as my camera doesn't allow me to use some of the possible values (i.e. Some of the flash settings appear permanently disabled on my camera - either that or they only become options when other settings are set "just so")
 

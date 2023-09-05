@@ -1,7 +1,7 @@
 +++
 title = 'Sony Dslr Mirrorless Camera Control [Part 1]'
 date = 2020-01-18T15:20:17-06:00
-draft = true
+draft = false
 +++
 As mentioned in my [ASCOM driver post](https://retro.kiwi/ascom-driver-for-sony-cameras/), Sony doesn't seem particularly interested in allowing third-party access when it comes to remote control of their cameras.
 

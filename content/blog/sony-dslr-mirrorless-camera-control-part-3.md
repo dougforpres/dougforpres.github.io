@@ -1,7 +1,7 @@
 +++
 title = 'Sony Dslr Mirrorless Camera Control [Part 3]'
 date = 2020-01-29T18:51:25-06:00
-draft = true
+draft = false
 +++
 Sony take a very programmer-unfriendly approach to taking photos (any many other aspects of camera control).
 Most actions involve taking the same steps as the user of the camera would take.

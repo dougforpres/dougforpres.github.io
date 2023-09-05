@@ -1,7 +1,7 @@
 ---
 title: In the beginning...
 ---
-I never had a Commodore Pet - in fact I've never had any machine made by Commodore.  However, a sighting of a Pet in the Math department Head's office was all I needed to become fascinated with computers.
+I never had a Commodore Pet - in fact I've never had any machine made by Commodore. However, a sighting of a Pet in my High School Math Department Head's office was all I needed to become fascinated with computers.
 
 Here, I hope to list all of the various computers I owned from earliest up until the machines I have collected over the past few years.
 
