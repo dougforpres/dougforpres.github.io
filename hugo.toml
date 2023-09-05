@@ -2,6 +2,7 @@ baseURL = 'https://dougforpres.github.io/'
 languageCode = 'en-us'
 title = 'retro.kiwi'
 
+disableKinds = ['taxonomy', 'term', ]
 
 [params.logo]
   text = "retro.kiwi"
