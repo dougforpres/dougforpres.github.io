@@ -67,8 +67,6 @@
       "jr-basics__item",
       "jr-basics__label",
       "jr-basics__location-city",
-      "jr-basics__location-countryCode",
-      "jr-basics__location-region",
       "jr-basics__name",
       "jr-basics__profile",
       "jr-basics__profile--col",

@@ -20,7 +20,7 @@ Using the *Remote* software in imaging-edge I've been able to capture a number o
 
 Sony also have an official Web API for their cameras, although when visiting the site they take great pains to point out that the API is no longer officially supported. Additionally it requires direct connection to the Camera's WiFi access-point. My a6400 isn't officially supported, and I was concerned that if I spent any time writing software against this API I might find Sony removes it from a later version of software.
 
-{{< figure src="/images/Orion-Nebula.png" title="Orion Nebula, taken using Sony a6400. 6 x 4-minute exposures" >}}
+{{< figure src="/images/orion-nebula.png" title="Orion Nebula, taken using Sony a6400. 6 x 4-minute exposures" >}}
 
 The above (cropped) image was taken using the Imaging Edge Remote software. The image was stacked using [Deep Sky Stacker](http://deepskystacker.free.fr/), and level adjusted using Photoshop. The Telescope used was a Willam Optics Redcat 51 with an Optolong L-enHance Light Pollution Filter.
 
