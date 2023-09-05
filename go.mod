@@ -1,6 +1,6 @@
 module dougforpres.github.io
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/schnerring/hugo-mod-json-resume v0.0.0-20230903161110-a4854d10b003 // indirect
