@@ -1,0 +1,55 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Doug Henderson",
+    "label": "Programmer/Software Architect",
+    "image": "/images/jess.png",
+    "email": "retrodotkiwi@gmail.com",
+    "phone": "",
+    "summary": "Originally from New Zealand, I moved to the US in 2000, and have lived in Idaho since 2019. In my spare time I work on my collection of 80's computers from Acorn and Sinclair, design/code for my Acorn Archimedes expansion Podule, and take photos of the night sky.",
+    "location": {
+      "city": "Idaho, US"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Sony Camera Wiki",
+        "url": "https://github.com/dougforpres/ASCOMSonyCameraDriver/wiki"
+      },
+      {
+        "network": "GitHub",
+        "username": "My GitHub Home Page",
+        "url": "https://github.com/dougforpres"
+      },
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/riscfan"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [
+    {
+      "name": "80's Computers",
+      "keywords": [ "Acorn", "Sinclair", "RISC", "6502", "Z80" ]
+    },
+    {
+      "name": "PCB Design",
+      "keywords": [ "FPGA", "kicad" ]
+    },
+    {
+      "name": "ARM",
+      "keywords": [ "Assembler", "Archimedes", "RISC" ]
+    }
+  ],
+  "references": [
+  ],
+  "projects": []
+}
