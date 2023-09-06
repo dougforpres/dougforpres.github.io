@@ -1,0 +1,22 @@
+copyright = "Copyright (c) 2020-2023"
+title = "I'm a Retro Kiwi"
+
+[imaging]
+  # JPEG and WebP image processing quality, defaults to 75%
+  #quality = 75
+
+[params]
+  # dark or light, defaults to light. Local storage and OS preference override this param. For more details see: 
+  # https://github.com/schnerring/hugo-theme-gruvbox/issues/34#issuecomment-1235870375
+  #defaultTheme = "light"
+  # gray red green yellow blue purple aqua orange, defaults to blue
+  #themeColor = "blue"
+  # soft medium hard, defaults to medium
+  #themeContrast = "medium"
+  author = "Doug Henderson"
+  subtitle = "retro.kiwi"
+  description = "From 70's and 80's computers through amateur astrophotography to FPGA design and software drivers, I've been playing with computers and software since 1981."
+
+  [params.logo]
+    text = "retro.kiwi"
+    url = "/"

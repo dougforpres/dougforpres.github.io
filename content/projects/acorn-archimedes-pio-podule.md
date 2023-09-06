@@ -13,9 +13,9 @@ To date, there have been two revisions of the Podule.
 
 ## Version 1
 
-{{< figure src="/images/pio_v1.png" title="Original prototype, the level-shifters were too slow" >}}
+{{< figure src="/images/pio_v1.png" caption="Original prototype, the level-shifters were too slow" >}}
 
-{{< figure src="/images/pio_v1a.png" title="Updated prototype, using 8-bit level-shifters" >}}
+{{< figure src="/images/pio_v1a.png" caption="Updated prototype, using 8-bit level-shifters" >}}
 
 Cobbled together on vero-board, this was a proof-of concept.  The concept was 100% proven, and I learnt many things.
 
@@ -25,7 +25,7 @@ Skills acquired:
 
 ## Version 2
 
-{{< figure src="/images/pio_v2.jpg" title="First PCB design - other than one manufacturing defect, it worked perfectly" >}}
+{{< figure src="/images/pio_v2.jpg" caption="First PCB design - other than one manufacturing defect, it worked perfectly" >}}
 
 An honest-to-goodness real PCB with surface mounted components.
 
