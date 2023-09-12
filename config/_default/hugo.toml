@@ -16,6 +16,7 @@ title = "I'm a Retro Kiwi"
   author = "Doug Henderson"
   subtitle = "retro.kiwi"
   description = "From 70's and 80's computers through amateur astrophotography to FPGA design and software drivers, I've been playing with computers and software since 1981."
+  # This is used to turn search on for blog and projects (default is "section with most files")
   mainSections = ['blog', 'projects']
 
   [params.logo]

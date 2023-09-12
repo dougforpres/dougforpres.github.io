@@ -1,0 +1,36 @@
+﻿<div class="sidebar">
+    {{ if .Params.toc }}
+    {{ with .TableOfContents }}
+    <aside class="toc">
+        <nav>
+            <p class="sidebar__heading">Table Of Contents</p>
+            {{ . }}
+        </nav>
+    </aside>
+    <hr />
+    {{ end }}
+    {{ end }}
+
+    {{ $cv := index $.Site.Data.json_resume $.Site.Language.Lang }}
+    {{ if $cv.basics }}
+    <aside class="bio">
+        {{ partial "json-resume/basics.html" . }}
+
+        {{ if $.Site.Params.tagCloud.enable }}
+        <hr />
+        {{ end }}
+    </aside>
+    {{ end }}
+
+    <hr />
+
+    <div class="bio jr-basics__profile jr-basics__profile--row">
+        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dougforpres" data-color="#FFDD00" data-emoji="📖" data-font="Bree" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>
+    </div>
+
+    {{ if $.Site.Params.tagCloud.enable }}
+    <aside>
+        {{ partial "tag-cloud.html" . }}
+    </aside>
+    {{ end }}
+</div>
