@@ -6,6 +6,7 @@
       "aside",
       "blockquote",
       "body",
+      "br",
       "button",
       "del",
       "div",
@@ -106,6 +107,8 @@
       "fn:1",
       "fnref:1",
       "hex-dumps-are-your-friend",
+      "i-use-a-sony-compatible-lens-how-can-i-get-it-supported",
+      "in-a-nutshell",
       "menu",
       "messing-with-the-code",
       "no-more-spamming-the-camera-for-status-updates",
@@ -133,7 +136,9 @@
       "what-ive-been-able-to-find",
       "what-needs-to-be-done",
       "whats-the-difference",
-      "where-things-stand"
+      "where-can-i-get-this-version",
+      "where-things-stand",
+      "why-not-just-use-the-sony-sdk"
     ]
   }
 }
